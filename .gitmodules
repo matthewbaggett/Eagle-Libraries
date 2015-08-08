@@ -1,0 +1,3 @@
+[submodule "AutoSportLabs"]
+	path = AutoSportLabs
+	url = git@github.com:autosportlabs/eagle_lbr.git
