@@ -1,3 +1,6 @@
 [submodule "AutoSportLabs"]
 	path = AutoSportLabs
 	url = git@github.com:autosportlabs/eagle_lbr.git
+[submodule "JonnyRadu"]
+	path = JonnyRadu
+	url = git@github.com:jonnyradu/EagleCad-Libraries-.git
