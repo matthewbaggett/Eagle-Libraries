@@ -4,3 +4,6 @@
 [submodule "JonnyRadu"]
 	path = JonnyRadu
 	url = git@github.com:jonnyradu/EagleCad-Libraries-.git
+[submodule "Adafruit-Eagle-Library"]
+	path = Adafruit-Eagle-Library
+	url = git@github.com:adafruit/Adafruit-Eagle-Library.git
