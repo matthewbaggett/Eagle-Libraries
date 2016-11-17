@@ -7,3 +7,6 @@
 [submodule "Adafruit-Eagle-Library"]
 	path = Adafruit-Eagle-Library
 	url = git@github.com:adafruit/Adafruit-Eagle-Library.git
+[submodule "Sparkfun"]
+	path = Sparkfun
+	url = git@github.com:matthewbaggett/SparkFun-Eagle-Libraries.git
