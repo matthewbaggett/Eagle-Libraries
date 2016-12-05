@@ -10,3 +10,6 @@
 [submodule "Sparkfun"]
 	path = Sparkfun
 	url = git@github.com:matthewbaggett/SparkFun-Eagle-Libraries.git
+[submodule "DM Urievich"]
+	path = DM Urievich
+	url = https://github.com/dm-urievich/eagle-lib.git
