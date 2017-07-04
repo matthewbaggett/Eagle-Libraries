@@ -1,5 +1,8 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 5585d69fcfc68b2b1e376b03261c9fac72936905
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE eagle SYSTEM "eagle.dtd">
 <eagle version="7.7.0">
@@ -227,6 +230,7 @@
 </devicesets>
 </library>
 </drawing>
+<<<<<<< HEAD
 =======
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE eagle SYSTEM "eagle.dtd">
@@ -687,4 +691,6 @@
 </library>
 </drawing>
 >>>>>>> Herp
+=======
+>>>>>>> 5585d69fcfc68b2b1e376b03261c9fac72936905
 </eagle>
