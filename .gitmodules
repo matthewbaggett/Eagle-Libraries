@@ -16,3 +16,6 @@
 [submodule "clueboard_eagle"]
 	path = clueboard_eagle
 	url = https://github.com/skullydazed/clueboard_eagle.git
+[submodule "Pimoroni"]
+	path = Pimoroni
+	url = https://github.com/pimoroni/eagle.git
