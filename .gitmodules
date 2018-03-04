@@ -19,3 +19,6 @@
 [submodule "Pimoroni"]
 	path = Pimoroni
 	url = https://github.com/pimoroni/eagle.git
+[submodule "dword1511"]
+	path = dword1511
+	url = https://github.com/dword1511/eagle-lbr.git
