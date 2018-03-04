@@ -13,3 +13,6 @@
 [submodule "DM Urievich"]
 	path = DM Urievich
 	url = https://github.com/dm-urievich/eagle-lib.git
+[submodule "clueboard_eagle"]
+	path = clueboard_eagle
+	url = https://github.com/skullydazed/clueboard_eagle.git
