@@ -22,3 +22,9 @@
 [submodule "dword1511"]
 	path = dword1511
 	url = https://github.com/dword1511/eagle-lbr.git
+[submodule "ChiEngineer"]
+	path = ChiEngineer
+	url = https://github.com/chiengineer/Eagle-Libraries.git
+[submodule "Petit Miner"]
+	path = Petit Miner
+	url = https://github.com/petit-miner/eagle-lib.git
