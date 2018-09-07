@@ -28,3 +28,6 @@
 [submodule "Petit Miner"]
 	path = Petit Miner
 	url = https://github.com/petit-miner/eagle-lib.git
+[submodule "Ciseco-Eagle-Library"]
+	path = Ciseco-Eagle-Library
+	url = https://github.com/CisecoPlc/Ciseco-Eagle-Library.git
