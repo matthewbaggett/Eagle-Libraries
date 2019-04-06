@@ -101,8 +101,8 @@
 <text x="-2" y="14.1" size="1.27" layer="25">HLK-PM03</text>
 <pad name="AC2" x="0" y="0" drill="1.4" diameter="3.81" shape="square"/>
 <pad name="AC1" x="0" y="5.08" drill="1.4" diameter="3.81" shape="square"/>
-<pad name="-VO" x="29.4" y="-5.2" drill="1.4" diameter="3.81" shape="square"/>
-<pad name="+VO" x="29.4" y="10.2" drill="1.4" diameter="3.81" shape="square"/>
+<pad name="-VO" x="29.4" y="10.04" drill="1.4" diameter="3.81" shape="square"/>
+<pad name="+VO" x="29.4" y="-5.04" drill="1.4" diameter="3.81" shape="square"/>
 </package>
 <package name="SO-16DW">
 <description>&lt;b&gt;Small Outline Integrated Circuit&lt;/b&gt; wide</description>
