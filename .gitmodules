@@ -1,0 +1,24 @@
+[submodule "From The Internet/Jonny Radu"]
+	path = From The Internet/Jonny Radu
+	url = git@github.com:jonnyradu/EagleCad-Libraries-.git
+[submodule "From The Internet/Adafruit"]
+	path = From The Internet/Adafruit
+	url = git@github.com:adafruit/Adafruit-Eagle-Library.git
+[submodule "From The Internet/SparkFun"]
+	path = From The Internet/SparkFun
+	url = https://github.com/sparkfun/SparkFun-Eagle-Libraries.git
+[submodule "From The Internet/Pimoroni"]
+	path = From The Internet/Pimoroni
+	url = https://github.com/pimoroni/eagle.git
+[submodule "From The Internet/ChiEngineer"]
+	path = From The Internet/ChiEngineer
+	url = https://github.com/chiengineer/Eagle-Libraries.git
+[submodule "From The Internet/Petit Miner"]
+	path = From The Internet/Petit Miner
+	url = https://github.com/petit-miner/eagle-lib.git
+[submodule "From The Internet/Cisesco"]
+	path = From The Internet/Cisesco
+	url = https://github.com/CisecoPlc/Ciseco-Eagle-Library.git
+[submodule "From The Internet/Clueboard"]
+	path = From The Internet/Clueboard
+	url = https://github.com/skullydazed/clueboard_eagle.git
