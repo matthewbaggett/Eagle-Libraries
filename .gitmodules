@@ -22,3 +22,6 @@
 [submodule "From The Internet/Clueboard"]
 	path = From The Internet/Clueboard
 	url = https://github.com/skullydazed/clueboard_eagle.git
+[submodule "JLCPCB"]
+	path = JLCPCB
+	url = git@github.com:matthewbaggett/jlcpcb-library.git
